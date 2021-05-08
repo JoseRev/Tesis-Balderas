@@ -1,0 +1,16 @@
+Credenciales_Probables:
+    - [admin, admin]
+    - [admin, administrador]
+    - [admin, r3d35]
+
+Credenciales_Issabel:
+    - [admin, admin]
+
+Usuarios:
+    - admin
+    - administrador
+    - root
+    
+Passwords:
+    - cisco
+    - reduno
